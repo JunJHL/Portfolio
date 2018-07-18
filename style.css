@@ -9,6 +9,16 @@
     color:white;
     font-size:20px;
 }
+
+.footer{
+    height:100px;
+}
+
+.init{
+    font-size:30px;
+}
+
+
 .headshot{
     width:20%;
    
@@ -49,18 +59,35 @@ h2{
 
 #new{
     display:flex;
-    justify-content:center;
-    background-color:white;
+    background-color:skyblue;
 }
 
 .column{
-    background-color:pink;
-    width:40%;
+    width:20%;
     height:600px;
+    margin-top:70;
+    margin:40;
+    padding-top:30;
+    padding-left:30;
+}
+
+.i{
+    font-size:30px;
 }
 
 #a{
-    width:60%;
+    background-color:white;
+    width:70%;
     padding-left:50px;
 }
 
+#sa{
+    width:120%;
+    height:800px;
+}
+
+/* style for contact */
+.two{
+    font-size:30px;
+    color:black;
+}
