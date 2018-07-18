@@ -1,0 +1,66 @@
+.row{
+    display:flex;
+    justify-content:center;
+    justify-content:space-evenly;
+}
+
+.row{   
+    background-color:skyblue;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;     
+}
+
+
+#overview{
+    width:1000px;
+    height:500px;
+}
+
+p{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+a{
+    padding-top: 25px;
+    color:white;
+    text-decoration: none;
+}
+
+h2{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+/* style for about me */
+
+#new{
+    display:flex;
+    justify-content:center;
+    background-color:white;
+}
+
+.column{
+    background-color:pink;
+    width:40%;
+    height:600px;
+}
+
+#a{
+    width:60%;
+    padding-left:50px;
+}
+
