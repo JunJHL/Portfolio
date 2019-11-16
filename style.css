@@ -77,7 +77,7 @@ h2{
 
 #a{
     background-color:white;
-    width:70%;
+    width:50%;
     padding-left:50px;
 }
 
@@ -91,3 +91,6 @@ h2{
     color:white;
 }
 
+#center_text{
+    text-align: center;
+}
